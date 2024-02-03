@@ -70,6 +70,11 @@ h1{
     background-color: rgba(0, 0, 0, 0.5);
     z-index: 900;
 }
+
+#doggy img{
+    border-radius: 35px;
+}
+
 #closeDiv{
     background-color: orange;
 }
