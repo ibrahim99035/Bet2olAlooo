@@ -3,6 +3,7 @@ const RingPopup = document.getElementById('ringpopup');
 
 function closePopup() {
     RingPopup.style.display = 'none';
+
     document.getElementById('overlay').style.display = 'none';
 }
 
